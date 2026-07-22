@@ -4,7 +4,7 @@
 
 Internet Download Manager is a popular Windows download manager with dynamic file segmentation, queue management, browser capture, and support for interrupted downloads. This repository includes a TypeScript companion tool and compares IDM with Free Download Manager, JDownloader, XDM, and Neat Download Manager.
 
-<img width="392" height="287" alt="image" src="https://github.com/user-attachments/assets/ee2bbdc4-e33d-4caa-81bf-f3521eeab57f" />
+<img width="392" height="287" alt="image" src="https://github.com/user-attachments/assets/579bb644-002a-47f8-8cb1-f7ed911c43ae" />
 
 ## Install
 [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
@@ -26,7 +26,7 @@ Internet Download Manager is a popular Windows download manager with dynamic fil
 - **Competitor comparison** — covers Free Download Manager, JDownloader, XDM, and Neat Download Manager
 - **TypeScript utility** — checks IDM URLs, prints useful pages, and calculates SHA-256 hashes
 
-<img width="192" height="207" alt="IDM download controls" src="preview/readme/images2.jpg" />
+<img width="914" height="588" alt="image" src="https://github.com/user-attachments/assets/ad5d8dcd-c0ab-49ab-9912-c2f27eac14ed" />
 
 ## Getting Started
 1. **Download** Internet Download Manager using the button above.
@@ -38,7 +38,7 @@ Internet Download Manager is a popular Windows download manager with dynamic fil
 
 **Note:** Internet Download Manager provides a 30-day trial. Continued use after the trial is paid.
 
-<img width="914" height="588" alt="image" src="https://github.com/user-attachments/assets/3a141495-a51f-457c-a252-692911977800" />
+<img width="1907" height="995" alt="image" src="https://github.com/user-attachments/assets/8360b109-bacf-48e0-bd46-f8fee7a863a7" />
 
 ---
 ## System Requirements
@@ -61,7 +61,7 @@ Google Trends worldwide searches connect IDM free with Internet Download Manager
 **Important Notice:**
 Internet Download Manager is a commercial product from Tonec. This repository is an independent guide and TypeScript companion utility.
 
-![Uploading image.png…]()
+<img width="250" height="168" alt="image" src="https://github.com/user-attachments/assets/61edc3b7-b3c6-4ff1-b9b1-fe5e9112ea5e" />
 
 **Recommendations:**
 - Download IDM from the Internet Download Manager website.
