@@ -1,4 +1,4 @@
-# IDM Free Download — Internet Download Manager for Windows
+# IDM Free Download Manager
 
 **IDM Free** is a complete Internet Download Manager guide for Windows that covers the 30-day trial, browser integration, download acceleration, scheduling, file recovery, and the latest IDM version.
 
